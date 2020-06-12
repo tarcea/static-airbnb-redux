@@ -19,4 +19,8 @@ cursor: pointer;
 border: 6px solid transparent;
 }
 
+.flat.selected {
+  border: 8px red dashed;
+}
+
 @import "card";
